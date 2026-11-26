@@ -58,4 +58,4 @@ Enterprise sales scoring pipeline — Excel ingestion, weighted scoring engine (
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hashir-137207323/)
-📧 hashirmuhammad7777@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=hashirmuhammad7777@gmail.com)
